@@ -1,0 +1,31 @@
+# Title: HARRYDOTMY/hosts-blocklist extension VIU Malaysia
+#
+#
+# Homepage: https://github.com/HarryDotMYx/hosts-blocklist
+# Download: https://raw.githubusercontent.com/harrydotmyx/hosts-blocklist/main/hosts-netflix
+#
+# =====================================================
+# VIU Malaysia Blocked Domains
+
+# Official site
+0.0.0.0 viu.com
+0.0.0.0 www.viu.com
+0.0.0.0 api.viu.com
+0.0.0.0 cdn.viu.com
+0.0.0.0 static.viu.com
+0.0.0.0 sso.viu.com
+0.0.0.0 edge.viu.com
+0.0.0.0 player.viu.com
+0.0.0.0 img.viu.com
+0.0.0.0 ads.viu.com
+0.0.0.0 analytics.viu.com
+0.0.0.0 help.viu.com
+0.0.0.0 support.viu.com
+0.0.0.0 my.viu.com
+0.0.0.0 ms.viu.com
+0.0.0.0 sg.viu.com
+0.0.0.0 hk.viu.com
+0.0.0.0 th.viu.com
+0.0.0.0 id.viu.com
+0.0.0.0 ph.viu.com
+0.0.0.0 ae.viu.com

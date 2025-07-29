@@ -1,8 +1,5 @@
 # Title: HARRYDOTMY/hosts extension netflix
 #
-# This hosts file blocks Netflix domains
-# Last updated: 29 July 2025 14:00 UTC+8
-# Number of unique domains: 10
 #
 # Homepage: https://github.com/harrydotmy/hosts
 # Download: https://raw.githubusercontent.com/harrydotmy/hosts/main/hosts-netflix
@@ -233,6 +230,11 @@
 0.0.0.0 prod.app-api.netflix.com
 0.0.0.0 prod.appboot.netflix.com
 
+# End of Netflix blocklist
+
                    
+
+# this is a blocklist for VIU domains
+
 
 # End of Netflix blocklist

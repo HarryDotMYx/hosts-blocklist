@@ -208,8 +208,31 @@
 0.0.0.0 netflix-android.app.link
 0.0.0.0 netflix-ios.page.link
 0.0.0.0 netflix-android.page.link
+0.0.0.0 mobile-android.netflix.com
+0.0.0.0 mobile-ios.netflix.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 api-android.netflix.com
+0.0.0.0 api-ios.netflix.com
+0.0.0.0 android.clients.netflix.com
+0.0.0.0 ios.clients.netflix.com
+0.0.0.0 android.prod.cloud.netflix.com
+0.0.0.0 ios.prod.cloud.netflix.com
+0.0.0.0 android-api.prod.cloud.netflix.com
+0.0.0.0 ios-api.prod.cloud.netflix.com
+0.0.0.0 android-api.netflix.com
+0.0.0.0 ios-api.netflix.com
+0.0.0.0 app-api.netflix.com
+0.0.0.0 appboot.netflix.com
+0.0.0.0 prod.mobile.netflix.com
+0.0.0.0 prod.ios.netflix.com
+0.0.0.0 prod.android.netflix.com
+0.0.0.0 prod.app.netflix.com
+0.0.0.0 prod.apps.netflix.com
+0.0.0.0 prod.m.netflix.com
+0.0.0.0 prod.mobile.netflix.com
+0.0.0.0 prod.app-api.netflix.com
+0.0.0.0 prod.appboot.netflix.com
 
-
-
+                   
 
 # End of Netflix blocklist
